@@ -34,7 +34,7 @@ export class FoodService {
     tags:['FastFood','Pizza','Lunch'],
     favorite:true,
     stars:4.5,
-    imageUrl:'../../../assets/images/foods/food-1.jfif',
+    imageUrl:'assets/images/foods/food-1.jfif',
     origins:['italy'],
     cookieTime:'10-20',
     },{
@@ -44,7 +44,7 @@ export class FoodService {
     tags:['سنتی','Pizza','Lunch'],
     favorite:false,
     stars:4.5,
-    imageUrl:'../../../assets/images/foods/food-2.jfif',
+    imageUrl:'assets/images/foods/food-2.jfif',
     origins:['irani'],
     cookieTime:'10-20',
     },
